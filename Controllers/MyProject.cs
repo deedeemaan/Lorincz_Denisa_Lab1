@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Lorincz_Denisa_Lab1.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Lorincz_Denisa_Lab1.Controllers
 {
